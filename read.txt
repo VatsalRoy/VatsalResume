@@ -1,0 +1,39 @@
+Vatsal Roy - Professional Resume
+This repository contains the HTML and CSS files for the professional resume of Vatsal Roy. The resume is styled for both readability and aesthetics, featuring a toggleable dark mode, responsive design, and interactive elements. It is optimized for showcasing professional experience, education, skills, and projects.
+
+Features
+Responsive Design: Adapts to different screen sizes for optimal viewing on desktops, tablets, and mobile devices.
+Dark Mode Toggle: Users can switch between light and dark themes for better visibility.
+Interactive Skills Section: Hover effects highlight individual skills.
+Tooltips: Display additional information for contact links (email, LinkedIn).
+Dynamic Content Update: Allows for easy updates of text content via JavaScript.
+Print-Friendly: Designed to ensure proper formatting when printed.
+Sections
+Header: Includes the name, email, and LinkedIn profile with tooltips.
+Objective: A brief summary of professional goals and interests.
+Education: Details of academic qualifications.
+Professional Experience: Highlights roles and responsibilities in previous positions.
+Projects: Links to live examples of projects.
+Skills: Grid layout showcasing technical and additional skills.
+Specialized Knowledge: Describes specific areas of expertise.
+Technologies Used
+HTML5
+CSS3
+JavaScript
+Usage Instructions
+Open the royResume.html file in a web browser.
+Click the "Toggle Dark Mode" button at the top-right to switch themes.
+Hover over skill items to see hover effects.
+Click on project links to view the associated live websites.
+Press Ctrl + P (Windows) or Command + P (Mac) for a print-friendly version of the resume.
+File Structure
+bash
+Copy code
+/index.html
+index.html: The main file containing the resume structure, styles, and JavaScript for interactivity.
+Future Enhancements
+Add support for multilingual content.
+Implement a backend for dynamic updates through a CMS.
+Enhance accessibility for screen readers.
+Contact
+For updates or issues, please contact Vatsal Roy.
